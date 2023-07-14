@@ -16,8 +16,9 @@ The La Cafetería Landing Page is built using React and styled with SASS to crea
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
+- HTML
 - SASS: A CSS extension language that enhances the styling capabilities and maintainability of the project.
+- JavaScript
 
 ## Installation and Usage
 
